@@ -1,0 +1,22 @@
+body {
+    background-image: url(https://media.wired.com/photos/627b0c1fb6048c47d506c6c0/4:3/w_1384,h_1038,c_limit/Backrooms-Games.jpg);
+}
+.header-wrapper {
+    width: 8%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4rem;
+}
+.mainas {
+    margin: auto;
+    width: 30%;
+    background-color: #fff;
+    padding: 10px;
+}
+main h1 {
+    padding-left: 11px;
+}
+.buttonas {
+    color: red;
+
+}
